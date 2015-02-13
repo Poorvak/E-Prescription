@@ -1,0 +1,8 @@
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\classes\debug
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c43d22c723d56fc00bd231cfeb21ca8f9a9a7bc4.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-394cddf1fac2b593a7bc8c5869b37b57ae9bf01e.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4a5e97fdc6f99ce51280b88483333931171f7188.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-a68e85f05541d7f4419e897a85631075d730e1f9.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-ccf7e7d01e2d0d9604b279aa42ad12ce879d5e84.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-9558b85f6cb316dad3cf4395f3a8ae091ec14bab.jar
+C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-45231424cabd8b607aeaba7f5a21e17e3014019f.jar

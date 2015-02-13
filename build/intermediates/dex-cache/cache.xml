@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-9558b85f6cb316dad3cf4395f3a8ae091ec14bab.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-45231424cabd8b607aeaba7f5a21e17e3014019f.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-394cddf1fac2b593a7bc8c5869b37b57ae9bf01e.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-a68e85f05541d7f4419e897a85631075d730e1f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.21.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0285ad8da812e92dda76ed5d0dcba05724c7911d">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\classes-ccf7e7d01e2d0d9604b279aa42ad12ce879d5e84.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c43d22c723d56fc00bd231cfeb21ca8f9a9a7bc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\INPL-SERNE\AndroidStudioProjects\E-Prescription\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4a5e97fdc6f99ce51280b88483333931171f7188.jar" />
+    </item>
+
+</items>
